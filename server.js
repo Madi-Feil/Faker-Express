@@ -39,9 +39,8 @@ const createCompany = () => {
 }
 
 app.get('/user/:word',(req,res)=>{
-    const word = req.params.word
     const user = createUser()
-    res.json(word)
+    res.json(user)
 })
 
 app.get('/company',(req,res)=>{
