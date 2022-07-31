@@ -1,0 +1,9 @@
+API stands for Application Programming Interface.
+If you have a program, you may way to communicate with another program that is written in a different technology, tech, stach, etc
+Generally speaking, an API is the interface that allows one program/application to communicate with another.
+EX: a bridge
+    you have two seperate terrains, but the bridge brings those two together. API is the bridge between the two.
+Many times we will hear the term "RESTful API" or "REST API"
+A RESTful API is an API that communicates amoung and between web services.
+These API follow a certain set of rules that make sure it is easy for people to implement them.
+By following a consistant set of conventions, learning different RESTful API will become quite easy and streamlined
